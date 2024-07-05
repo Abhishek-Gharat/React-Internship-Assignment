@@ -1,0 +1,59 @@
+[
+    {
+      "department": "customer-service",
+      "sub_departments": ["support", "customer_success", "customer_advocacy", "customer_engagement", "customer_feedback"]
+    },
+    {
+      "department": "design",
+      "sub_departments": ["graphic_design", "product_design", "web_design", "ui_ux_design"]
+    },
+    {
+      "department": "development",
+      "sub_departments": ["frontend", "backend", "fullstack"]
+    },
+    {
+      "department": "marketing",
+      "sub_departments": ["seo", "content", "social_media", "email_marketing"]
+    },
+    {
+      "department": "sales",
+      "sub_departments": ["b2b", "b2c", "partner_sales"]
+    },
+    {
+      "department": "finance",
+      "sub_departments": ["accounting", "budgeting", "investment", "financial_reporting"]
+    },
+    {
+      "department": "operations",
+      "sub_departments": ["supply_chain", "logistics", "quality_assurance", "facilities_management"]
+    },
+    {
+      "department": "human_res",
+      "sub_departments": ["recruitment", "training", "employee_relations", "hr_operations", "compensation_benefits"]
+    },
+    {
+      "department": "IT",
+      "sub_departments": ["networking", "database_management", "cyber_security", "it_support"]
+    },
+    {
+      "department": "legal",
+      "sub_departments": ["contracts", "compliance", "intellectual_property", "litigation_management"]
+    },
+    {
+      "department": "research",
+      "sub_departments": ["innovation", "testing", "prototyping", "market_research"]
+    },
+    {
+      "department": "customer",
+      "sub_departments": ["customer_advocacy", "customer_engagement", "customer_feedback", "customer_experience"]
+    },
+    {
+      "department": "quality",
+      "sub_departments": ["performance_testing", "automation_testing", "security_testing", "usability_testing"]
+    },
+    {
+      "department": "public",
+      "sub_departments": ["media_relations", "corporate_communications", "public_affairs", "crisis_management"]
+    }
+  ]
+  
